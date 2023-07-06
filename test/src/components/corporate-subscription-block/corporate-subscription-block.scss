@@ -1,0 +1,84 @@
+@import '../../global/utilities/mixins.scss';
+
+:host {
+  display: block;
+}
+
+.corporate-subscription-block {
+  background-color: white;
+  border-radius: 0.5rem;
+  padding: 0 12.3125rem 2.25rem;
+
+  &__message {
+      text-align: center;
+      display: none;
+      &--header {
+        margin: 60px 0;
+      }
+    &--display {
+      display: block;
+    }
+  }
+  &__form-inputs{
+    &--no-display {
+      display: none;
+    }
+  }
+
+
+  corporate-input {
+    --extras-input-border-thickness: 0;
+    --extras-input-border-radius: 0;
+    --extras-input-input-padding: 1.125rem 0.3125rem;
+    --extras-input-group-padding: 0;
+    --extras-input-color: var(--cdp-corp-grey-l3);
+    --extras-input-font-size: 1.75rem;
+    --extras-input-font-family: 'Noto Sans';
+    --extras-input-line-height: 1.64286rem;
+    border-bottom: solid 1px var(--helix-core-primary-dark-primary);
+    font-weight: 400;
+  }
+
+  &__header {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  &__body {
+    helix-core-grid {
+      position: relative;
+    }
+
+    corporate-button-icon {
+      position: absolute;
+      top: -.25em;
+      right: 0;
+    }
+  }
+
+  &__footer {
+    @include helixTypeSetReponsiveUtilityClass('cdp-corp-body-copy-s');
+    color: var(--cdp-corp-grey-l5);
+    --cdp-corp-body-copy-s-font-size: 1rem;
+    --cdp-corp-body-copy-s-line-height: 1.5rem;
+
+    helix-checkbox {
+      --helix-core-icon-color: var(--cdp-corp-pfizer-secondary-blue);
+      --extras-checkbox-label-color: var(--cdp-corp-gre-l4);
+    }
+
+    helix-core-content {
+      display: inline-flex;
+
+      a {
+        --cdp-corp-link-s-font-weight: normal;
+        --cdp-corp-link-l-font-weight: normal;
+      }
+    }
+  }
+
+  &__header {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+}

@@ -1,0 +1,3250 @@
+[
+  
+    {
+          "title": "Croatia",
+          "contacts": [
+            {
+              "title": "Healthcare Professionals",
+              "email": "MedInfoCroatia@pfizer.com", 
+              "phone": [
+                {"phonenumber":"00385 (0)1 3908 777"}], 
+              "web": []
+            }, 
+            {
+              "title": "Patients and Caregivers",
+             "email": "MedInfoCroatia@pfizer.com", 
+              "phone":[
+                {"phonenumber":"00385 (0)1 3908 777"}], 
+             "web": []
+            }
+          ],
+        
+              "region": "Europe", 
+             "coordinates": "45.1, 15.2",
+             "submit_inquiry": []
+          
+            
+      },
+    {
+          "title": "Eswatini",
+          "contacts": [
+            {
+              "title": "Healthcare Professionals",
+              "email": "", 
+              "phone": [
+                ], 
+              "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+            }, 
+            {
+              "title": "Patients and Caregivers",
+             "email": "", 
+              "phone":[
+                ], 
+             "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}] 
+            }
+          ],
+        
+              "region": "Africa", 
+             "coordinates": "-26.522503, 31.465866",
+             "submit_inquiry": []
+          
+            
+      },
+    {
+          "title": "Sudan",
+          "contacts": [
+            {
+              "title": "Healthcare Professionals",
+              "email": "", 
+              "phone": [
+                ], 
+              "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+            }, 
+            {
+              "title": "Patients and Caregivers",
+             "email": "", 
+              "phone":[
+                ], 
+             "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}] 
+            }
+          ],
+        
+              "region": "Africa", 
+             "coordinates": "16.085785, 30.08739",
+             "submit_inquiry": []   
+            
+      },
+    {
+          "title": "Benin",
+          "contacts": [
+            {
+              "title": "Healthcare Professionals",
+              "email": "", 
+              "phone": [
+                ], 
+              "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+            }, 
+            {
+              "title": "Patients and Caregivers",
+             "email": "", 
+              "phone":[
+                ], 
+             "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}] 
+            }
+          ],
+        
+              "region": "Africa", 
+             "coordinates": "9.624112, 2.3377388",
+             "submit_inquiry": []   
+            
+      },
+    
+    
+    {
+          "title": "Rwanda",
+          "contacts": [
+            {
+              "title": "Healthcare Professionals",
+              "email": "MedInfoMEandAfrica@pfizer.com", 
+              "phone": [
+                ], 
+              "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+            }, 
+            {
+              "title": "Patients and Caregivers",
+             "email": "", 
+              "phone":[
+                ], 
+             "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+            }
+          ],
+        
+              "region": "Africa", 
+             "coordinates": "-1.940278, 29.873888",
+            "submit_inquiry": [{"title":"Submit Medical Inquiry   (English)"},{"title":"Submit Medical Inquiry (French)"}]   
+            
+      },
+    
+    {
+          "title": "Syria",
+          "contacts": [
+            {
+              "title": "Healthcare Professionals",
+              "email": "MedInfoMEandAfrica@pfizer.com", 
+              "phone": [
+               ], 
+              "web": []
+            }, 
+            {
+              "title": "Patients and Caregivers",
+             "email": "", 
+              "phone":[
+                ], 
+             "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+            }
+          ],
+        
+              "region": "the Middle East", 
+             "coordinates": "34.802075, 38.996815",
+            "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+            
+      },
+    
+    
+    {
+          "title": "Laos",
+          "contacts": [
+            {
+              "title": "Healthcare Professionals",
+              "email": "MI.Thailand@pfizer.com", 
+              "phone": [
+                {"phonenumber":"+662 761 4859"}], 
+              "web": []
+            }, 
+            {
+              "title": "Patients and Caregivers",
+             "email": "MI.Thailand@pfizer.com", 
+              "phone":[
+                {"phonenumber":"+662 761 4859"}], 
+             "web": [{"title":"Consumer Inquiry Form","url":"https://www.misubmission.com/sites/globalmi/pages/submitmi.aspx?site_code=apac-th-e-c"}]
+            }
+          ],
+        
+              "region": "Asia-Pacific", 
+             "coordinates": "19.85627, 102.495496",
+            "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+            
+      },
+    
+    
+    {
+          "title": "Myanmar",
+          "contacts": [
+            {
+              "title": "Healthcare Professionals",
+              "email": "MI.Thailand@pfizer.com", 
+              "phone": [
+                {"phonenumber":"+662 761 4859"}], 
+              "web": []
+            }, 
+            {
+              "title": "Patients and Caregivers",
+             "email": "MI.Thailand@pfizer.com", 
+              "phone":[
+                {"phonenumber":"+662 761 4859"}], 
+             "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/TH"}] 
+            }
+          ],
+        
+              "region": "Asia-Pacific", 
+             "coordinates": "21.913965, 95.956223",
+            "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+            
+      },
+    
+    {
+          "title": "Cambodia",
+          "contacts": [
+            {
+              "title": "Healthcare Professionals",
+              "email": "MI.Thailand@pfizer.com", 
+              "phone": [
+                {"phonenumber":"+662 761 4859"}], 
+              "web": []
+            }, 
+            {
+              "title": "Patients and Caregivers",
+             "email": "MI.Thailand@pfizer.com", 
+              "phone":[
+                {"phonenumber":"+662 761 4859"}], 
+             "web": [{"title":"Consumer Inquiry Form","url":"https://www.misubmission.com/sites/globalmi/pages/submitmi.aspx?site_code=apac-th-e-c"}] 
+            }
+          ],
+        
+              "region": "Asia-Pacific", 
+             "coordinates": "12.565679, 104.990963",
+            "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+            
+      },
+      {
+        "title": "Zimbabwe",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "med.info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"0027 11 320 6000"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"0027 11 320 6000"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "-19.015438, 29.154857",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Zambia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "med.info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"0027 11 320 6000"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"0027 11 320 6000"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "-13.133897, 27.849332",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Seychelles",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "med.info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"0027 11 320 6000"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"0027 11 320 6000"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "-4.679574, 55.491977",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+
+    {
+        "title": "Swaziland",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "med.info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"0027 11 320 6000"}], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"0027 11 320 6000"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}] 
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "-26.522503, 31.465866",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    
+
+    {
+        "title": "Namibia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "med.info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"0027 11 320 6000"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"0027 11 320 6000"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}] 
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "-22.95764, 18.49041",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+
+    {
+        "title": "Malawi",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "med.info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"0027 11 320 6000"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"0027 11 320 6000"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}] 
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "-13.254308, 34.301525",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    
+    {
+        "title": "Mauritius",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "med.info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"0027 11 320 6000"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"0027 11 320 6000"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "-20.348404, 57.552152",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+
+    {
+        "title": "Madagascar",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "med.info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"0027 11 320 6000"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"0027 11 320 6000"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}] 
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "-18.766947, 46.869107",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    
+    {
+        "title": "Mozambique",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "med.info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"0027 11 320 6000"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"0027 11 320 6000"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "-18.665695, 35.529562",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+
+    {
+        "title": "Lesotho",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "med.info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"0027 11 320 6000"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"0027 11 320 6000"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "-29.609988, 28.233608",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+
+    {
+        "title": "Botswana",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "med.info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"0027 11 320 6000"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"0027 11 320 6000"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}] 
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "-22.328474, 24.684866",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+
+    {
+        "title": "Angola",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "med.info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"0027 11 320 6000"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"0027 11 320 6000"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "-11.202692, 17.873887",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+
+    {
+        "title": "Vietnam",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoVietnam@pfizer.com", 
+            "phone": [
+              ], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "MedInfoVietnam@pfizer.com", 
+            "phone":[
+            ], 
+           "web": [{"title":"Submit Medical Inquiry (English)","url":"https://pmiform.com/HCP/VN-E"},{"title": "Submit Medical Inquiry (Vietnamese)","url":"https://pmiform.com/HCP/VN-V"}]
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "14.058324, 108.277199",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"}, {"title":"Submit Medical Inquiry (Vietnamese)"}]   
+          
+    },
+    {
+        "title": "Belize",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              ], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+             ], 
+           "web": [{"title":"Submit Medical Inquiry (English)","url":"https://pmiform.com/HCP/CAC-E"},{"title": "Submit Medical Inquiry (Spanish)","url":"https://pmiform.com/HCP/CAC-S"}] 
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "17.189877, -88.49765",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"}, {"title":"Submit Medical Inquiry (Spanish)"}]   
+          
+    },
+
+    {
+        "title": "Panama",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformation.com.pa/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+             ], 
+           "web": [{"title":"Submit Medical Inquiry (English)","url":"https://pmiform.com/HCP/CAC-E"},{"title": "Submit Medical Inquiry (Spanish)","url":"https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "8.537981, -80.782127",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"}, {"title":"Submit Medical Inquiry (Spanish)"}]   
+          
+    },
+
+    {
+        "title": "British Virgin Islands",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "info.medica@pfizer.com", 
+            "phone": [
+             ], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "info.medica@pfizer.com", 
+            "phone":[
+             ], 
+           "web": []
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "18.422995, -64.614122",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"}, {"title":"Submit Medical Inquiry (Spanish)"}]   
+          
+    },
+
+    {
+        "title": "Malaysia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              ], 
+           "web": []
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "4.210484, 101.975766",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Indonesia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "IndonesiaMedicalInformation@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformation.co.id"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "IndonesiaMedicalInformation@pfizer.com", 
+            "phone":[
+              ], 
+           "web": []
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "-0.789275, 113.921327",
+          "submit_inquiry": []   
+          
+    },
+
+    {
+        "title": "Singapore",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              ], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+             ], 
+           "web": []
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "1.352083, 103.819836",
+          "submit_inquiry": [{"title":"Submit Medical Enquiry"}]   
+          
+    },
+
+    {
+        "title": "United States",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"1 800 438 1985"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformation.com"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"1 800 438 1985"}], 
+           "web": [{"title":"Patient / Consumer / Caregiver Website","url":"https://www.pfizermedicalinformation.com/en-us/patient"}] 
+          }
+        ],
+      
+            "region": "North America", 
+           "coordinates": "40.7142, -74.0064",
+          "submit_inquiry": []   
+          
+    },
+
+    {
+        "title": "US Virgin Islands",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"1 800 438 1985"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedinfo.com"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"1 800 438 1985"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "18.344169, -64.933626",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Venezuela",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"08007349371"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"http://www.pfizermedinfo.com.ve"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"08007349371"}], 
+           "web": [{"title":"Submit Medical Inquiry","url":"https://www.pmiform.com/HCP/VE"}]
+          }
+        ],
+      
+            "region": "South America", 
+           "coordinates": "10.5032, -66.8376",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+
+    {
+        "title": "West Africa (29 Countries)",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+              ], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              ], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "13.5317, -2.46041",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title": "Submit Medical Inquiry (French)"}]   
+          
+    },
+
+    {
+        "title": "Yemen",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+             ], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              ], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "the Middle East", 
+           "coordinates": "15.5527, 48.5164",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+
+    {
+        "title": "Jordan",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+              {"phonenumber":"+962 6 5002600"},{"phonenumber": "+962 65002842"}], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+            ], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "the Middle East", 
+           "coordinates": "30.5852, 36.2384",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+
+    {
+        "title": "Kenya",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "Med.Info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"+254 2 051 38583"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"+254 2 051 38583"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "-0.023559, 37.9062",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Korea",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"82 2 317 2148"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedinfo.co.kr/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"82 2 317 2148"}], 
+           "web": [{"title":"Pfizer Korea Corporate Website","url":"http://www.pfizer.co.kr"}]
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "37.561, 126.995",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Kosovo",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoSerbia@Pfizer.com", 
+            "phone": [
+              {"phonenumber":"0381113630000"}], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "MedInfoSerbia@Pfizer.com", 
+            "phone":[
+              {"phonenumber":"0381113630000"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "42.6743, 20.8081",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Kuwait",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+              ], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationgulf.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+             ], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "the Middle East", 
+           "coordinates": "29.3117, 47.4818",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Latvia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"37167035775"}], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"37167035775"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "56.9561, 24.1096",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Lebanon",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+              {"phonenumber":"+961 4 543711"}], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+             ], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}] 
+          }
+        ],
+      
+            "region": "the Middle East", 
+           "coordinates": "33.8547, 35.8623",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Libya",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+             ], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "26.3351, 17.2283",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title": "Submit Medical Inquiry (French)"}]   
+          
+    },
+    {
+        "title": "Lithuania",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+370 52514000"}], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+              {"phonenumber":"+370 52514000"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "54.6859, 25.2593",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Macedonia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoSerbia@Pfizer.com", 
+            "phone": [
+              {"phonenumber":"0381113630000"}], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "MedInfoSerbia@Pfizer.com", 
+            "phone":[
+              {"phonenumber":"0381113630000"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "41.6236, 21.8627",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Mexico",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"52 55 50 81 85 91"},{"phonenumber": "+01 800 401 2002 (toll free)"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformation.com.mx"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "MedInfoSerbia@Pfizer.com", 
+            "phone":[
+                {"phonenumber":"52 55 50 81 85 91"},{"phonenumber": "+01 800 401 2002 (toll free)"}], 
+           "web": [{"title":"Submit Medical Inquiry","url":"https://pmiform.com/HCP/MX"}]
+          }
+        ],
+      
+            "region": "North America", 
+           "coordinates": "19.3923, -99.2491",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Montenegro",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoSerbia@Pfizer.com", 
+            "phone": [
+              {"phonenumber":"00381113630000"}], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "MedInfoSerbia@Pfizer.com", 
+            "phone":[
+                {"phonenumber":"00381113630000"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "42.892, 19.27",
+          "submit_inquiry": []   
+          
+    },
+
+    {
+        "title": "Morocco",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}] 
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "31.7917, -7.09262",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title": "Submit Medical Inquiry (French)"}]   
+          
+    },
+    {
+        "title": "New Zealand",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "medicalaffairs.anz@pfizer.com", 
+            "phone": [
+              {"phonenumber":"0800 675 229"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformation.co.nz/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "medicalaffairs.anz@pfizer.com", 
+            "phone":[
+                {"phonenumber":"0800 675 229"}], 
+           "web": [{"title":"Submit Medical Enquiry","url":"https://pmiform.com/NZ?site_code=apac-nz"}] 
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "-42.8115, 172.397",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Nicaragua",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformation.com.ni/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Submit Medical Inquiry (English)","url":"https://pmiform.com/HCP/CAC-"},{"title": "Submit Medical Inquiry (Spanish)","url":"https://pmiform.com/HCP/CAC-S"}] 
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "12.8654, -85.2072",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title": "Submit Medical Inquiry (Spanish)"}]   
+          
+    },
+    {
+        "title": "Nigeria",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "Med.Info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"+234 1 270 3921"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationng.com"},{"title": "Africa Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+234 1 270 3921"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "9.082, 8.67528",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Norway",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+47 67526100"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformation.no/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+47 67526100"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "59.762, 9.99791",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Oman",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationgulf.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "the Middle East", 
+           "coordinates": "21.5126, 55.9233",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Pakistan",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MEDINFO_PAK@pfizer.com", 
+            "phone": [
+              {"phonenumber":"+92 21 32200121-5"},{"phonenumber": "+92 21 32316671-5"}], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "MEDINFO_PAK@pfizer.com", 
+            "phone":[
+                {"phonenumber":"+92 21 32200121-5"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "30.3753, 69.3451",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Palestine",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+972.9.9700500"}], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+972.9.9700500"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "the Middle East", 
+           "coordinates": "31.423629, 34.373806",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Paraguay",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+595 (0)21 6207711"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformation.com.py/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+595 (0)21 6207711"}], 
+           "web": [{"title":"Submit Medical Inquiry","url":"https://www.pmiform.com/HCP/PY"}]
+          }
+        ],
+      
+            "region": "South America", 
+           "coordinates": "-23.2615, -58.0078",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Peru",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"0-800-77325"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformation.com.pe/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"0-800-77325"}], 
+           "web": [{"title":"Submit Medical Inquiry","url":"https://pmiform.com/HCP/PE"}]
+          }
+        ],
+      
+            "region": "South America", 
+           "coordinates": "-12.0691, -76.9459",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Philippines",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformation.ph/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Submit Medical Inquiry","url":"https://pmiform.com/CONS/PH"}]
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "12.8797, 121.774",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Poland",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "Medical.info.pl@pfizer.com", 
+            "phone": [
+              {"phonenumber":"48 22 335 61 00"}], 
+            "web": [{"title":"Healthcare Professional Inquiry","url":"https://pmiform.com/HCP/P"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "Medical.info.pl@pfizer.com", 
+            "phone":[
+                {"phonenumber":"48 22 335 61 00"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/PL"}]
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "52.1809, 20.9977",
+          "submit_inquiry": [{"title":"Healthcare Professional Inquiry"}]   
+          
+    },
+    {
+        "title": "Portugal",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url":"https://www.pfizermedicalinformation.pt/"},{"title": "Healthcare Professional Inquiry Form","url":"https://pmiform.com/HCP/PT"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+351 21 423 5500"}], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/PT"}]
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "38.7121, -9.31095",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Puerto Rico",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"1 800 438 1985"}], 
+            "web": [{"title":"Pfizer Medical Information","url":"https://www.pfizermedinfo.com"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"1 800 438 1985"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "18.2606, -66.4453",
+          "submit_inquiry": []   
+          
+    },
+
+    {
+        "title": "Qatar",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationgulf.com/"}]
+
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "the Middle East", 
+           "coordinates": "25.3548, 51.1839",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Romania",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "medicalinformationromania@pfizer.com", 
+            "phone": [
+              {"phonenumber":"40 21 207 2800"}], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "medicalinformationromania@pfizer.com", 
+            "phone":[
+                {"phonenumber":"40 21 207 2800"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "44.94, 26.03",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Russia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"007 495 287 50 00"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"http://www.pfizermedinfo.ru"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"007 495 287 50 00"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe, Asia-Pacific", 
+           "coordinates": "55.7512, 37.6184",
+          "submit_inquiry": []   
+          
+    },
+
+    {
+        "title": "Saudi Arabia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+              {"phonenumber":"Jeddah: +966 122293500"},{"phonenumber": "Riyadh: +966 112021800"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformation.sa"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "the Middle East", 
+           "coordinates": "21.5435, 39.173",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Senegal",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Consumer Inquiry Form","url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "14.4974, -14.4524",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title": "Submit Medical Inquiry (French)"}]   
+          
+    },
+    {
+        "title": "Serbia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoSerbia@Pfizer.com", 
+            "phone": [
+              {"phonenumber":"00381113630000"}], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "MedInfoSerbia@Pfizer.com", 
+            "phone":[
+                {"phonenumber":"00381113630000"}],
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "44.8239, 20.4176",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Slovakia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "Slovakia-MedInfo@pfizer.com", 
+            "phone": [
+              {"phonenumber":"+421 23 355 5500"}], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "Slovakia-MedInfo@pfizer.com", 
+            "phone":[
+                {"phonenumber":"+421 23 355 5500"}], 
+            "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "48.1427, 17.1233",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Slovenia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "SloveniaMedInfo@pfizer.com", 
+            "phone": [
+              {"phonenumber":"00386 1 5211400"}], 
+            "web": []
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "SloveniaMedInfo@pfizer.com", 
+            "phone":[
+                {"phonenumber":"00386 1 5211400"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "46.0623, 14.5416",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "South Africa",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "Med.Info2@pfizer.com", 
+            "phone": [
+              {"phonenumber":"+27113206000"}], 
+            "web": [{"title":"Healthcare Professional Website","url":"http://www.pfizermedinfo.co.za"},{"title":"Africa Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}]
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+27113206000"}], 
+           "web": [{"title":"Consumer Inquiry Form", "url":"https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "-26.1014, 28.0541",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Spain",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url": "http://www.pfizermedinfo.com.es"},{"title":"Healthcare Professional Inquiry Form", "url": "https://pmiform.com/HCP/ES"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+34 914 909 900"}], 
+           "web": [{"title":"Consumer Inquiry Form", "url": "https://pmiform.com/CONS/ES"}]
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "40.532, -3.63556",
+          "submit_inquiry": []   
+          
+    },
+
+    {
+        "title": "Suriname (Caribbean Region)",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Submit Medical Inquiry (English)", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry (Spanish)","url": "https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "3.91931, -56.0278",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title": "Submit Medical Inquiry (Spanish)"}]   
+          
+    },
+    {
+        "title": "Sweden",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+46 855052000"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "http://www.pfizermedicalinformation.se"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+46 855052000"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "59.4011, 17.9798",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Switzerland",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+41 43 495 71 11"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.ch"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "47.3611, 8.55573",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (German)"},{"title":"Submit Medical Inquiry (French)"}]   
+          
+    },
+    {
+        "title": "Taiwan",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "mi.taiwan@pfizer.com", 
+            "phone": [
+              {"phonenumber":"+886 2 5575 2000"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "mi.taiwan@pfizer.com", 
+            "phone":[
+                {"phonenumber":"+886 2 5575 2000"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "25.1896, 121.457",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Thailand",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MI.Thailand@pfizer.com", 
+            "phone": [
+              {"phonenumber":"+662 761 4859"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "MI.Thailand@pfizer.com", 
+            "phone":[
+                {"phonenumber":"+662 761 4859"}], 
+           "web": [{"title":"Submit Medical Inquiry", "url": "https://www.misubmission.com/sites/globalmi/pages/submitmi.aspx?site_code=apac-…"}]
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "13.7259, 100.527",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "The Netherlands",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"0800 6334636"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.nl"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"0800 6334636"}], 
+           "web": [{"title":"Consumer Inquiry Form", "url": "https://pmiform.com/CONS/NL"}]
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "51.9139, 4.5419",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Trinidad & Tobago (Caribbean Region)",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Submit Medical Inquiry  (English)", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry  (Spanish)", "url": "https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "10.6918, -61.2225",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry  (English)"},{"title":" Submit Medical Inquiry (Spanish)"}]   
+          
+    },
+    {
+        "title": "Tunisia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.com.tn"},{"title":"Africa Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Consumer Inquiry Form", "url": "https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "33.8869, 9.5375",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Turkey",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "medikalbilgi@pfizer.com", 
+            "phone": [
+              {"phonenumber":"0090 212 310 7000"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "medikalbilgi@pfizer.com", 
+            "phone":[
+                {"phonenumber":"0090 212 310 7000"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "the Middle East", 
+           "coordinates": "41.0497, 29.0301",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Ukraine",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+380 44 391 60 50"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+380 44 391 60 50"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "49.0378, 31.0693",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "United Arab Emirates",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+              {"phonenumber":"+971 4 453 2000"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformationgulf.com/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Consumer Inquiry Form", "url": "https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "the Middle East", 
+           "coordinates": "23.4241, 53.8478",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "United Kingdom",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+44 1304 616161"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "http://www.pfizermedinfo.co.uk"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Consumer Website", "url": "https://www.pfizermedicalinformation.co.uk/en-gb/patient"}]
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "51.2767, -0.240765",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Uruguay",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"(+598) 2626-1212"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "http://www.pfizermedinfo.com.uy"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"(+598) 2626-1212"}], 
+           "web": [{"title":"Submit Medical Inquiry", "url": "https://www.pmiform.com/HCP/UY"}]
+          }
+        ],
+      
+            "region": "South America", 
+           "coordinates": "-33.0639, -55.8544",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Afghanistan",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MEDINFO_PAK@pfizer.com", 
+            "phone": [
+              {"phonenumber":"+92 21 32200121-5"},{"phonenumber":"+92 21 32316671-5"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "MEDINFO_PAK@pfizer.com", 
+            "phone":[
+                {"phonenumber":"+92 21 32200121-5"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "33.9391, 67.71",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Albania",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoSerbia@Pfizer.com", 
+            "phone": [
+              {"phonenumber":"00 381 113630000"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "MedInfoSerbia@Pfizer.com", 
+            "phone":[
+                {"phonenumber":"00 381 113630000"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "40.6598, 19.6436",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Algeria",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.com.dz/en-dz/front"},{"title":"Africa Healthcare Professional Website","url":"https://www.pfizermedicalinformationafrica.com/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Consumer Inquiry Form", "url": "https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "28.0339, 1.65963",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (French)"}]   
+          
+    },
+    {
+        "title": "Argentina",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+54 011 478 78200"},{"phonenumber":"+08004448433 (Gratis)"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "http://www.pfizermedinfo.com.ar"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+54 011 478 78200"},{"phonenumber":"+08004448433 (Gratis)"}], 
+           "web": [{"title":"Submit Medical Inquiry", "url": "http://www.pmiform.com/HCP/AR"}]
+          }
+        ],
+      
+            "region": "South America", 
+           "coordinates": "-37.6037, -67.3667",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Aruba (Caribbean Region)",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Submit Medical Inquiry (English)", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry (Spanish)", "url": "https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "12.5211, -69.9683",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (Spanish)"}]   
+          
+    },
+    {
+        "title": "Australia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"1800 675 229"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "http://www.pfizermedinfo.com.au"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"1800 675 229"}], 
+           "web": [{"title":"Submit Medical Inquiry", "url": "https://www.misubmission.com/sites/globalmi/pages/submitmi.aspx?site_code=APAC-…"}]
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "-33.8675, 151.207",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Austria",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+43 1 521 150"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.at/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+43 1 521 150"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "48.2082, 16.3738",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Bahamas (Caribbean Region)",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Submit Medical Inquiry (English", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry (Spanish", "url": "https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "25.0343, -77.3963",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (Spanish)"}]   
+          
+    },
+
+    {
+        "title": "Bahrain",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformationgulf.com/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Consumer Inquiry Form", "url": "https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "the Middle East", 
+           "coordinates": "26.0667, 50.5577",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Belarus",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "medinfo.belarus@pfizer.com", 
+            "phone": [
+              {"phonenumber":"+375 17 309 38 00"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "medinfo.belarus@pfizer.com", 
+            "phone":[
+                {"phonenumber":"+375 17 309 38 00"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "53.7098, 27.9534",
+          "submit_inquiry": []   
+          
+    },
+
+    {
+        "title": "Belgium",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+32 25546211"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.be"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+32 25546211"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "50.819, 4.39414",
+          "submit_inquiry": []   
+          
+    },
+
+    {
+        "title": "Bolivia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"(+511) 615-2100"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"(+511) 615-2100"}], 
+           "web": [{"title":"Submit Medical Inquiry", "url": "https://pmiform.com/HCP/BO"}]
+          }
+        ],
+      
+            "region": "South America", 
+           "coordinates": "-17.8667, -63",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Brazil",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"Toll free numbers:0800 7701575"},{"phonenumber":"0800 0160625"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "http://www.pfizermedinfo.com.br"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"Toll free numbers:0800 7701575"},{"phonenumber":"0800 0160625"}], 
+           "web": [{"title":"Submit Medical Inquiry", "url": "http://www.pmiform.com/BR"},{"title":"Patient Website","url":"http://www.falepfizer.com.br"}]
+          }
+        ],
+      
+            "region": "South America", 
+           "coordinates": "-23.6295, -46.7085",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Bulgaria",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+359 2970 4333"},{"phonenumber":"+359 2970 4334"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+359 2970 4333"},{"phonenumber":"+359 2970 4334"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "42.6563, 23.3878",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Canada",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"1 800 463 6001"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "http://pfizermedicalinformation.ca"},{"title":"Site Web pour les Professionnels de la Santé","url":"https://www.pfizermedicalinformation.ca/fr-ca"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"1 800 463 6001"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "North America", 
+           "coordinates": "45.4445, -73.864",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Caribbean Region (excl. Puerto Rico)",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Submit Medical Inquiry (English),", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry (Spanish),", "url": "https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "13.8659, -60.9686",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (Spanish)"}]   
+          
+    },
+    {
+        "title": "Cayman Islands (Caribbean Region)",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Submit Medical Inquiry (English)", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry (Spanish),", "url": "https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "19.3222, -81.2409",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (Spanish)"}]   
+          
+    },
+
+    {
+        "title": "Chile",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+56 2 22412000"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "http://pfizermedinfo.cl"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+56 2 22412000"}], 
+           "web": [{"title":"Submit Medical Inquiry", "url": "http://www.pmiform.com/HCP/CL"}]
+          }
+        ],
+      
+            "region": "South America", 
+           "coordinates": "-33.3712, -70.516",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "China",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "ChinaMI@pfizer.com", 
+            "phone": [
+              {"phonenumber":"(86) 400 910 0055"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.cn/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "ChinaMI@pfizer.com", 
+            "phone":[
+                {"phonenumber":"(86) 400 910 0055"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "39.904, 116.408",
+          "submit_inquiry": []   
+          
+    },
+
+    {
+        "title": "Colombia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"01 800 518 3951"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.com.co"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"01 800 518 3951"}], 
+           "web": [{"title":"Submit Medical Inquiry", "url": "https://pmiform.com/HCP/CO"}]
+          }
+        ],
+      
+            "region": "South America", 
+           "coordinates": "4.73657, -74.0819",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Costa Rica",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+08000150621"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.co.cr/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Submit Medical Inquiry (English)", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry (Spanish)","url":"https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "9.93924, -84.0841",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (Spanish)"}]   
+          
+    },
+    {
+        "title": "Curacao (Caribbean Region)",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Submit Medical Inquiry (English)", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry (Spanish)","url":"https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "12.1696, -68.99",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (Spanish)"}]   
+          
+    },
+    {
+        "title": "Czech Republic",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+420 283 004 111"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+420 283 004 111"}], 
+           "web": [{"title":"Consumer Inquiry Form", "url": "https://pmiform.com/CONS/CZ"}]
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "50.0703, 14.4027",
+          "submit_inquiry": [{"title":"Healthcare Professional Inquiry Form"}]   
+          
+    },
+    {
+        "title": "Czech Republic",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+420 283 004 111"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+420 283 004 111"}], 
+           "web": [{"title":"Consumer Inquiry Form", "url": "https://pmiform.com/CONS/CZ"}]
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "50.0703, 14.4027",
+          "submit_inquiry": [{"title":"Healthcare Professional Inquiry Form"}]   
+          
+    },
+    {
+        "title": "Denmark",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+45 44201100"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.dk"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+45 44201100"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "55.7293, 12.3908",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Dominican Republic",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "info.medica@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.com.do/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "info.medica@pfizer.com", 
+            "phone":[
+               ], 
+           "web": []
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "18.7357, -70.1627",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "East Africa Region (Comoros, Eritrea, Ethiopia, Somalia, Tanzania, Uganda)",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "Med.Info2@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformationafrica.com/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Consumer Inquiry Form", "url": "https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "1.95771, 37.2972",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "Ecuador",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"1-800-000273"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "http://pfizermedinfo.ec"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"1-800-000273"}], 
+           "web": [{"title":"Submit Medical Inquiry", "url": "https://pmiform.com/HCP/EC"}]
+          }
+        ],
+      
+            "region": "South America", 
+           "coordinates": "-0.071256, -78.4719",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+
+    {
+        "title": "Egypt",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformationafrica.com/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Consumer Inquiry Form", "url": "https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa, the Middle East", 
+           "coordinates": "26.8206, 30.8025",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]   
+          
+    },
+    {
+        "title": "El Salvador",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.com.sv/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Submit Medical Inquiry (English)", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry (Spanish)", "url": "https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "13.7942, -88.8965",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (Spanish)"}]   
+          
+    },
+    {
+        "title": "Estonia",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"372 666 7500"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"372 666 7500"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "59.4466, 24.8021",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "Finland",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url": "http://pfizermedicalinformation.fi"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+358- 94300 40"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "60.202, 24.8804",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "France",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+33 1 58 07 34 40"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.fr/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+33 1 58 07 34 40"}], 
+           "web": [{"title":"Patient/Caregiver Webform", "url": "https://pmiform.com/FR"}]
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "48.8188, 2.33024",
+          "submit_inquiry": []   
+          
+    },
+    {
+        "title": "French Guiana (Caribbean Region)",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Submit Medical Inquiry (English)", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry (Spanish)", "url": "https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "3.93389, -53.1258",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (Spanish)"}] 
+          
+    },
+
+    {
+        "title": "Germany",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+49 30 5500 555 1000"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "http://pfizermedinfo.de"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+49 30 5500 555 1000"}], 
+           "web": [{"title":"Consumer Inquiry Form", "url": "https://www.pfizermedicalinformation.de/de-de/patient/medizinische-anfrage"}]
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "52.5054, 13.374",
+          "submit_inquiry": [] 
+          
+    },
+
+    {
+        "title": "Ghana",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "Med.Info2@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformationafrica.com/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web": [{"title":"Consumer Inquiry Form", "url": "https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "7.94653, -1.02319",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}] 
+          
+    },
+    {
+        "title": "Greece",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+30 210 6785800"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+30 210 6785800"}], 
+           "web": []
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "38.0049, 23.7786",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}] 
+          
+    },
+    {
+        "title": "Guatemala",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.com.gt"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web":[{"title":"Submit Medical Inquiry (English)", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry (Spanish)", "url": "https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "15.7835, -90.2308",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (Spanish)"}]
+          
+    },
+    {
+        "title": "Guyana (Caribbean Region)",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web":[{"title":"Submit Medical Inquiry (English)", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry (Spanish)", "url": "https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "4.86042, -58.9302",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (Spanish)"}]
+          
+    },
+    {
+        "title": "Haiti (Caribbean Region)",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web":[{"title":"Submit Medical Inquiry (English)", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry (Spanish)", "url": "https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "18.9712, -72.2852",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (Spanish)"}]
+          
+    },
+    {
+        "title": "Honduras",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.hn/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web":[{"title":"Submit Medical Inquiry (English)", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry (Spanish)", "url": "https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "15.2, -86.2419",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (Spanish)"}]
+          
+    },
+    {
+        "title": "Hong Kong & Macao",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "HKMedinfo.Pfizer@Pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.com.hk/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "HKMedinfo.Pfizer@Pfizer.com", 
+            "phone":[
+               ], 
+           "web":[]
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "22.2905, 114.21",
+          "submit_inquiry": []
+          
+    },
+    {
+        "title": "Hungary",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "Medinfo.Hungary@pfizer.com", 
+            "phone": [
+              {"phonenumber":"+36 1 4883783"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+36 1 4883783"}], 
+           "web":[]
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "47.4907, 19.0239",
+          "submit_inquiry": []
+          
+    },
+    {
+        "title": "India",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "medinfo.india@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Health Care Professional Website", "url": "http://www.Pfizermedicalinformation.in"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "medinfo.india@pfizer.com", 
+            "phone":[
+               ], 
+           "web":[]
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "19.1425, 72.8431",
+          "submit_inquiry": []
+          
+    },
+    {
+        "title": "Iraq",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web":[{"title":"Consumer Inquiry Form", "url": "https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "the Middle East", 
+           "coordinates": "33.2232, 43.6793",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]
+          
+    },
+    {
+        "title": "Ireland",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"1 800 633 363"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "http://www.pfizermedinfo.ie"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"1 800 633 363"}], 
+           "web":[]
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "53.2889, -6.42097",
+          "submit_inquiry": []
+          
+    },
+    {
+        "title": "Israel",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+972.9.970 0500"}], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+972.9.970 0500"}], 
+           "web":[]
+          }
+        ],
+      
+            "region": "the Middle East", 
+           "coordinates": "30.6757, 34.8486",
+          "submit_inquiry": []
+          
+    },
+    {
+        "title": "Italy",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"+39 06 331821"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "http://pfizermedinfo.it"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"+39 06 331821"}], 
+           "web":[]
+          }
+        ],
+      
+            "region": "Europe", 
+           "coordinates": "41.9945, 12.4772",
+          "submit_inquiry": []
+          
+    },
+    {
+        "title": "Ivory Coast",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "MedInfoMEandAfrica@pfizer.com", 
+            "phone": [
+             ], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformationafrica.com/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web":[{"title":"Consumer Inquiry Form", "url": "https://pmiform.com/CONS/AFME"}]
+          }
+        ],
+      
+            "region": "Africa", 
+           "coordinates": "7.53999, -5.54708",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (French)"}]
+          
+    },
+    {
+        "title": "Jamaica (Caribbean Region)",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+             ], 
+            "web": [] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+               ], 
+           "web":[{"title":"Submit Medical Inquiry (English)", "url": "https://pmiform.com/HCP/CAC-E"},{"title":"Submit Medical Inquiry (Spanish)", "url": "https://pmiform.com/HCP/CAC-S"}]
+          }
+        ],
+      
+            "region": "Central America & Caribbean", 
+           "coordinates": "18.1096, -77.2975",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry (English)"},{"title":"Submit Medical Inquiry (Spanish)"}]
+          
+    },
+    {
+        "title": "Japan",
+        "contacts": [
+          {
+            "title": "Healthcare Professionals",
+            "email": "", 
+            "phone": [
+              {"phonenumber":"0120 664 467"}], 
+            "web": [{"title":"Healthcare Professional Website", "url": "https://www.pfizermedicalinformation.jp/"}] 
+          }, 
+          {
+            "title": "Patients and Caregivers",
+           "email": "", 
+            "phone":[
+                {"phonenumber":"0120 965 485"}], 
+           "web":[{"title":"Consumer Website", "url": "http://www.pfizer.co.jp/pfizer/healthcare/index.html"},{"title":"Patients Website", "url": "http://www.pfizer.co.jp/pfizer/healthcare/medicine/index.html"}]
+          }
+        ],
+      
+            "region": "Asia-Pacific", 
+           "coordinates": "35.6862, 139.695",
+          "submit_inquiry": [{"title":"Submit Medical Inquiry"}]
+          
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+  ]

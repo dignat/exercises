@@ -1,4 +1,5 @@
 import {Component, Prop, h} from '@stencil/core';
+import yaml from 'js-yaml';
 
 @Component({
     tag: 'first-component',
@@ -9,9 +10,16 @@ import {Component, Prop, h} from '@stencil/core';
 export class FirstComponent {
     @Prop() name: string;
 
+    private toYaml() {
+        fetch('./convert.json').then(res => res.json()).then(data => console.log(yaml.dump(data)));
+        
+    }
+
+
     render() {
         return (
-            <p>My name is {this.name}</p>
+            <p>{this.toYaml()}</p>
+            
         )
     }
 }

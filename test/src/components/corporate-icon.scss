@@ -1,0 +1,14 @@
+$socials: 'facebook', 'twitter';
+$additionals: 'linkedin', 'email', 'link';
+.addthis_button {
+  @each $social in $socials {
+    &_#{$social} {
+      margin-right: 1.625rem;
+    }
+  }
+  @each $additional in $additionals {
+    &_#{$additional} {
+      margin-right: 1.2rem;
+    }
+  }
+}

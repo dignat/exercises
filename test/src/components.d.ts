@@ -6,8 +6,18 @@
  */
 import { HTMLStencilElement, JSXBase } from "@stencil/core/internal";
 export namespace Components {
+    interface CorporateAddthis {
+    }
     interface FirstComponent {
         "name": string;
+    }
+    interface MyBackdrop {
+    }
+    interface MyButton {
+        "disabled": boolean;
+        "href": string;
+        "size": 'large'| 'small';
+        "target": '_blank' | '_self' | '_parent' | '_top';
     }
     interface MyComponent {
         /**
@@ -26,15 +36,45 @@ export namespace Components {
     interface MyEmbededComponent {
         "color": string;
     }
+    interface MyModal {
+        "content": string;
+        "open": () => Promise<void>;
+        "title": string;
+    }
+    interface MyPagination {
+        "count": number;
+        "perPage": number;
+        "totalPages": number;
+    }
     interface MyParentComponent {
+    }
+    interface MyShare {
     }
 }
 declare global {
+    interface HTMLCorporateAddthisElement extends Components.CorporateAddthis, HTMLStencilElement {
+    }
+    var HTMLCorporateAddthisElement: {
+        prototype: HTMLCorporateAddthisElement;
+        new (): HTMLCorporateAddthisElement;
+    };
     interface HTMLFirstComponentElement extends Components.FirstComponent, HTMLStencilElement {
     }
     var HTMLFirstComponentElement: {
         prototype: HTMLFirstComponentElement;
         new (): HTMLFirstComponentElement;
+    };
+    interface HTMLMyBackdropElement extends Components.MyBackdrop, HTMLStencilElement {
+    }
+    var HTMLMyBackdropElement: {
+        prototype: HTMLMyBackdropElement;
+        new (): HTMLMyBackdropElement;
+    };
+    interface HTMLMyButtonElement extends Components.MyButton, HTMLStencilElement {
+    }
+    var HTMLMyButtonElement: {
+        prototype: HTMLMyButtonElement;
+        new (): HTMLMyButtonElement;
     };
     interface HTMLMyComponentElement extends Components.MyComponent, HTMLStencilElement {
     }
@@ -48,22 +88,56 @@ declare global {
         prototype: HTMLMyEmbededComponentElement;
         new (): HTMLMyEmbededComponentElement;
     };
+    interface HTMLMyModalElement extends Components.MyModal, HTMLStencilElement {
+    }
+    var HTMLMyModalElement: {
+        prototype: HTMLMyModalElement;
+        new (): HTMLMyModalElement;
+    };
+    interface HTMLMyPaginationElement extends Components.MyPagination, HTMLStencilElement {
+    }
+    var HTMLMyPaginationElement: {
+        prototype: HTMLMyPaginationElement;
+        new (): HTMLMyPaginationElement;
+    };
     interface HTMLMyParentComponentElement extends Components.MyParentComponent, HTMLStencilElement {
     }
     var HTMLMyParentComponentElement: {
         prototype: HTMLMyParentComponentElement;
         new (): HTMLMyParentComponentElement;
     };
+    interface HTMLMyShareElement extends Components.MyShare, HTMLStencilElement {
+    }
+    var HTMLMyShareElement: {
+        prototype: HTMLMyShareElement;
+        new (): HTMLMyShareElement;
+    };
     interface HTMLElementTagNameMap {
+        "corporate-addthis": HTMLCorporateAddthisElement;
         "first-component": HTMLFirstComponentElement;
+        "my-backdrop": HTMLMyBackdropElement;
+        "my-button": HTMLMyButtonElement;
         "my-component": HTMLMyComponentElement;
         "my-embeded-component": HTMLMyEmbededComponentElement;
+        "my-modal": HTMLMyModalElement;
+        "my-pagination": HTMLMyPaginationElement;
         "my-parent-component": HTMLMyParentComponentElement;
+        "my-share": HTMLMyShareElement;
     }
 }
 declare namespace LocalJSX {
+    interface CorporateAddthis {
+    }
     interface FirstComponent {
         "name"?: string;
+    }
+    interface MyBackdrop {
+    }
+    interface MyButton {
+        "disabled"?: boolean;
+        "href"?: string;
+        "size"?: 'large'| 'small';
+        "target"?: '_blank' | '_self' | '_parent' | '_top';
     }
     interface MyComponent {
         /**
@@ -82,23 +156,47 @@ declare namespace LocalJSX {
     interface MyEmbededComponent {
         "color"?: string;
     }
+    interface MyModal {
+        "content"?: string;
+        "title"?: string;
+    }
+    interface MyPagination {
+        "count"?: number;
+        "onPaging"?: (event: CustomEvent<any>) => void;
+        "perPage"?: number;
+        "totalPages"?: number;
+    }
     interface MyParentComponent {
     }
+    interface MyShare {
+    }
     interface IntrinsicElements {
+        "corporate-addthis": CorporateAddthis;
         "first-component": FirstComponent;
+        "my-backdrop": MyBackdrop;
+        "my-button": MyButton;
         "my-component": MyComponent;
         "my-embeded-component": MyEmbededComponent;
+        "my-modal": MyModal;
+        "my-pagination": MyPagination;
         "my-parent-component": MyParentComponent;
+        "my-share": MyShare;
     }
 }
 export { LocalJSX as JSX };
 declare module "@stencil/core" {
     export namespace JSX {
         interface IntrinsicElements {
+            "corporate-addthis": LocalJSX.CorporateAddthis & JSXBase.HTMLAttributes<HTMLCorporateAddthisElement>;
             "first-component": LocalJSX.FirstComponent & JSXBase.HTMLAttributes<HTMLFirstComponentElement>;
+            "my-backdrop": LocalJSX.MyBackdrop & JSXBase.HTMLAttributes<HTMLMyBackdropElement>;
+            "my-button": LocalJSX.MyButton & JSXBase.HTMLAttributes<HTMLMyButtonElement>;
             "my-component": LocalJSX.MyComponent & JSXBase.HTMLAttributes<HTMLMyComponentElement>;
             "my-embeded-component": LocalJSX.MyEmbededComponent & JSXBase.HTMLAttributes<HTMLMyEmbededComponentElement>;
+            "my-modal": LocalJSX.MyModal & JSXBase.HTMLAttributes<HTMLMyModalElement>;
+            "my-pagination": LocalJSX.MyPagination & JSXBase.HTMLAttributes<HTMLMyPaginationElement>;
             "my-parent-component": LocalJSX.MyParentComponent & JSXBase.HTMLAttributes<HTMLMyParentComponentElement>;
+            "my-share": LocalJSX.MyShare & JSXBase.HTMLAttributes<HTMLMyShareElement>;
         }
     }
 }

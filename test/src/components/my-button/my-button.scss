@@ -1,0 +1,16 @@
+@import '../../global/mixins.scss';
+
+button {
+    @include font-stack-brand;
+    @include button-padding(0.25rem, 0.45rem);
+    cursor: pointer;
+    border:none;
+
+    &:hover,
+    &:focus {
+        outline: none;
+        background: rgb(85, 2, 85);
+        color: white;
+
+    }
+}

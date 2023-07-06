@@ -7,19 +7,43 @@
 
     <script type="module" src="/build/test.esm.js"></script>
     <script nomodule src="/build/test.js"></script>
+    <script lang="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.2/xlsx.min.js"></script>
     <script>
       var button = document.querySelector('button');
       button.click()
     </script>
+    <script scr="src/convert.js"></script>
   </head>
   <body>
   <div id="gjs">
     <h1>Hello world!</h1>
   </div>
-  <button></button>
+  <button>Button</button>
     <my-modal></my-modal>
     <my-parent-component></my-parent-component>
     <first-component name="Eliz"></first-component>
+    <my-button >My Button</my-button>
     <my-component first="Stencil" last="'Don't call me a framework' JS"></my-component>
+   <my-pagination per-page="5" count="20" total-pages="1"></my-pagination>
+   <my-share></my-share>
+   <input type="file" id="file-selector">
+   <button onclick="convert()">Convert</button>
   </body>
+
+  <script>
+   
+    function convert() {
+      const file = document.getElementById('file-selector').files[0];
+      file.arrayBuffer().then((res) => {
+        let data = new Uint8Array(res);
+        let wworkbook = XLSX.read(data, {type: "array"});
+        let first_sheet_name = wworkbook.SheetNames[0]
+        let worksheet = wworkbook.Sheets[first_sheet_name];
+        let jsonData = XLSX.utils.sheet_to_json(worksheet, {raw: false});
+
+        console.log(jsonData)
+       
+      })
+    }
+  </script>
 </html>

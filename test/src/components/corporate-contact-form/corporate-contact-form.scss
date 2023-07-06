@@ -1,0 +1,141 @@
+@import '../../global/utilities/mixins.scss';
+
+corporate-contact-form {
+  display: block;
+  --error-color: #dd315a;
+  --select-width: 14.23rem;
+  --select-validation-font-family: var(--cdp-corp-caption-font-family);
+  --select-validation-font-size: var(--cdp-corp-caption-font-size);
+  --select-validation-color: var(--error-color);
+  --validity-font-family: var(--cdp-corp-caption-font-family);
+  --validity-font-size: var(--cdp-corp-caption-font-size);
+  --validity-color: var(--error-color);
+}
+
+// Desktop View
+.corporate-contact-form {
+  max-width: 49.5rem;
+  padding: 0;
+  background-color: var(--cdp-corp-white);
+
+  &__section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 4.375rem;
+  }
+
+  &__label {
+    @include helixTypeSetResponsive('cdp-corp-display-h6');
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+  }
+
+  &__input {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  &__input--short {
+    width: 14.23rem;
+  }
+
+  &__input--medium {
+    width: 21.125rem;
+  }
+
+  &__questions-answers {
+    gap: 4.375rem;
+    width: 100%;
+  }
+
+  &__full-name {
+    display: flex;
+    gap: 1.75rem;
+    width: 100%;
+
+    & > * {
+      flex-grow: 1;
+    }
+  }
+
+  &__country {
+    gap: 4.25rem;
+  }
+
+  &__self-description {
+    margin-bottom: 4.75rem;
+  }
+
+  &__caption {
+    margin-bottom: 2rem;
+    @include helixTypeSetResponsive('cdp-corp-caption');
+    color: var(--cdp-corp-grey-l5);
+
+    a {
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: var(--cdp-corp-pfizer-tertiary-blue);
+    }
+  }
+
+  &__consent {
+    margin-bottom: 2.5rem;
+    --extras-checkbox-required-asterisk-color: transparent;
+    --extras-checkbox-error-color: var(--error-color);
+    --extras-checkbox-error-padding: 14px 0 0;
+  }
+
+  &__submit-btn {
+    --helix-core-button-margin-right-property: 0;
+    --helix-core-button-margin-left-property: 0;
+    display: inline-block;
+
+    &--hidden {
+      display: none;
+    }
+  }
+
+  // Mobile view
+  @include helixBreakpoint('zero', 'medium') {
+    --corporate-textarea-label-textarea-height: 21.375rem;
+
+    &__label {
+      margin-bottom: 1rem;
+    }
+
+    &__subject {
+      margin-bottom: 2.25rem;
+    }
+
+    &__questions-answers {
+      gap: 2.563rem;
+      margin-bottom: 4.75rem;
+    }
+
+    &__full-name {
+      flex-direction: column;
+      gap: 2.5rem;
+    }
+
+    &__country {
+      gap: 2.5rem;
+      margin-bottom: 2.5rem;
+    }
+
+    &__self-description {
+      margin-bottom: 4rem;
+    }
+
+    &__caption {
+      margin-bottom: 2.5rem;
+    }
+
+    &__consent {
+      margin-bottom: 4rem;
+    }
+  }
+}

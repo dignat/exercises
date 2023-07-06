@@ -1,0 +1,22 @@
+:host {
+  display: block;
+}
+$socials: "facebook", "twitter", "linkedin", "email", "email";
+.addthis_button {
+  @each $social in $socials {
+    &_#{$social} {
+      width: 1.313rem;
+      height: 1.146rem;
+      margin-right: 1.5rem;
+    }
+  }
+}
+
+.corporate-article-container {
+  &__list {
+    display: inline-flex;
+    list-style: none;
+    padding: 0;
+  }
+}
+

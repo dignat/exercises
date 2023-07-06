@@ -1,0 +1,10 @@
+:host {
+    display: block;
+}
+ ul li {
+    text-decoration:  none;
+    cursor: pointer;
+}
+.current {
+    text-decoration: underline;
+}

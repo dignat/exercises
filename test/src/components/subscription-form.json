@@ -1,0 +1,54 @@
+{
+  "configToken": "corporate-subscription-form-token-denise-a",
+  "name": "CorporateSubscriptionFormConfig",
+  "service": "ms-form",
+  "domain": "example.com",
+  "siteName": "example.com",
+  "region": "US",
+  "description": "A sample form config for the subscription form",
+  "active": true,
+  "config": {
+    "types": ["store"],
+    "fields": [
+      {
+        "id": "first_name",
+        "name": "first_name",
+        "label": "First Name",
+        "type": "text",
+        "order": 1,
+        "validators": [{ "type": "required" }]
+      },
+      {
+        "id": "last_name",
+        "name": "last_name",
+        "label": "Last Name",
+        "type": "text",
+        "order": 2,
+        "validators": [{ "type": "required" }]
+      },
+      {
+        "id": "email",
+        "name": "email",
+        "type": "email",
+        "label": "Email", 
+        "order": 3,
+        "validators": [{ "type": "required" }, {"type":  "email"}]
+      },
+      {
+        "id": "confirm",
+        "name": "confirm",
+        "label": "Confirm",
+        "type": "checkbox",
+        "order": 4,
+        "validators": [{ "type": "required" }]
+      },
+      {
+        "id": "submit",
+        "name": "submit",
+        "label": "Submit",
+        "type": "button",
+        "order": 5
+      }
+    ]
+  }
+}

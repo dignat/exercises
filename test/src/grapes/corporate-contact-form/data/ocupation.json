@@ -1,0 +1,42 @@
+[
+  {
+    "label": "Job Seeker",
+    "value": "Job Seeker"
+  },
+  {
+    "label": "Shareholder",
+    "value": "Shareholder"
+  },
+  {
+    "label": "Press/Media",
+    "value": "Press/Media"
+  },
+  {
+    "label": "Consumer",
+    "value": "Consumer"
+  },
+  {
+    "label": "Student",
+    "value": "Student"
+  },
+  {
+    "label": "Financial Analyst",
+    "value": "Financial Analyst"
+  },
+  {
+    "label": "Healthcare Professional",
+    "value": "Healthcare Professional"
+  },
+  {
+    "label": "Supplier",
+    "value": "Supplier"
+  },
+  {
+    "label": "Pharmacist",
+    "value": "Pharmacist"
+  },
+  {
+    "label": "Other",
+    "value": "Other"
+  }
+]
